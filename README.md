@@ -1,64 +1,65 @@
+![Felipe Oliveira — Web Development, IT Support and Automation](https://github.com/fehhzz/portfolio/raw/refs/heads/main/portfolio-banner.svg)
+
 # Felipe Oliveira
 
 ### Web Development · IT Support · Automation
 
-Based in **Sorocaba, Brazil**. I build web interfaces and digital tools, solve technical problems and connect software with practical business needs.
+Based in **Sorocaba, Brazil**. I build web interfaces and digital tools and solve technical problems with attention to the user's operational needs.
 
 My background combines **Computer Engineering**, **Audiovisual Production** and hands-on IT support. Through **Sky High Tech**, I work on websites, automation and AI-assisted development. At **Eletromídia**, I handled user support, technical diagnostics, networks, monitoring and incident resolution with autonomy.
 
-[LinkedIn](https://www.linkedin.com/in/fehzoliver/) · [About me in Portuguese](#em-português)
-
----
+**[Explore my project portfolio](https://github.com/fehhzz/portfolio)** · [LinkedIn](https://www.linkedin.com/in/fehzoliver/) · [Português](#em-português)
 
 ## Technical focus
 
 | Area | Tools and experience |
 | --- | --- |
 | Web development | React, Next.js, TypeScript, JavaScript, responsive interfaces |
-| Data and integrations | PostgreSQL, Prisma, REST API integrations, Git |
+| Data and integrations | PostgreSQL, Prisma, Supabase, REST API integrations, Git |
 | IT support | Windows and Microsoft environments, hardware, software, networks, troubleshooting |
 | Operations | GLPI, Zabbix, ticket handling, monitoring and technical documentation |
 | Creative technology | Motion design, video editing, audiovisual production and Remotion-based projects |
-| Automation and AI | AI-assisted workflows, personalized agents and structured knowledge |
+| Automation and AI | Python workflows, AI-assisted development, personalized agents and structured knowledge |
 
 ## Selected work
 
-| Project area | What I work on |
+| Project | Focus |
 | --- | --- |
-| Business and studio websites | Sky High Tech, Kathellyn Nails, Ludmila Tavares Lash Studio and Gabi Castilho Studio |
-| Digital storefronts | RV Wear website project |
-| Prospecting and CRM | Tools for lead research and business workflows |
-| Video automation | A Remotion-based editing tool under development |
-| Operations tools | Valet OS prototype for vehicle mapping and status tracking |
-| Knowledge and agent workflows | SKY-OS: structured documentation, governance and validation |
+| Sky High Tech website | Lead API, authentication and administration |
+| Kathellyn Cruz Studio | Booking, manual approval and scheduling rules |
+| Gabrielle Castilho Studio | Studio website and Supabase-backed appointment requests |
+| RW Wear | Product catalog, filters and contact-based purchase flow |
+| Ludmila Tavares Lash Studio | Responsive editorial interface and galleries |
+| Lead Hunter Pro | Local research, CRM workflows and export |
+| SKY-OS | Portable knowledge, agent context and documented governance |
 
-Some projects contain client or internal material and remain private. I can walk through selected work and explain my contribution. Public project documentation is being prepared.
+**[Read the technical case studies →](https://github.com/fehhzz/portfolio)**
+
+Some source repositories contain client or internal material and remain private. The public portfolio explains their architecture and current stage without exposing operational data.
+
+Additional work includes a **Remotion-based editing tool under development** and a **Valet OS prototype** for vehicle mapping and status tracking.
 
 ## How I work
 
 - Understand the problem and its operational context.
-- Build clear interfaces and maintainable solutions.
+- Build clear interfaces and practical solutions.
 - Investigate incidents, validate fixes and document the outcome.
-- Use AI as development support, with review of generated changes.
+- Use AI as development support and review generated changes.
 
 ## Education and languages
 
-**Computer Engineering** · **Audiovisual Production**
+**Computer Engineering · Audiovisual Production**
 
-Portuguese: native · English: intermediate, with strong technical reading.
+Portuguese: native · English: intermediate, strongest in technical reading and written communication.
 
 ## Opportunities
 
-Interested in **web development, IT support, application support and automation**, especially remote opportunities.
-
-**Contact:** [LinkedIn — Felipe Oliveira](https://www.linkedin.com/in/fehzoliver/)
-
----
+Interested in **web development, IT support, application support and automation**, especially remote opportunities. [Contact me on LinkedIn](https://www.linkedin.com/in/fehzoliver/).
 
 ## Em português
 
-Sou **Felipe Oliveira**, desenvolvedor web e profissional de suporte de TI em Sorocaba/SP. Tenho formação em Engenharia da Computação e Produção Audiovisual, com experiência prática em suporte, diagnóstico de falhas, redes, monitoramento e resolução de chamados com autonomia.
+Sou **Felipe Oliveira**, desenvolvedor web e profissional de suporte de TI em Sorocaba/SP, com formação em Engenharia da Computação e Produção Audiovisual.
 
-Pela **Sky High Tech**, desenvolvo sites, interfaces e ferramentas digitais, além de trabalhar com automação e recursos de IA. Minha experiência com motion design e audiovisual também contribui para a apresentação visual e a experiência de uso dos projetos.
+Minha experiência na Eletromídia reúne atendimento a usuários, diagnóstico de falhas, hardware, software, redes, monitoramento e resolução de chamados com autonomia. Pela Sky High Tech, desenvolvo projetos independentes de sites, integrações e automação, com apoio de ferramentas de IA e revisão das implementações.
 
-Busco oportunidades em **desenvolvimento web, suporte de TI, sustentação de sistemas e automação**. Posso apresentar os projetos, explicar minha participação e detalhar as tecnologias utilizadas.
+Busco oportunidades remotas em desenvolvimento web, suporte técnico e automação. Meu inglês é intermediário, com maior facilidade em leitura técnica e comunicação escrita. Os [estudos de projetos](https://github.com/fehhzz/portfolio) apresentam meu trabalho e diferenciam as funcionalidades implementadas do que ainda está em desenvolvimento.
